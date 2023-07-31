@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Meet the team!
 description: test
 image: assets/images/pic11.jpg
