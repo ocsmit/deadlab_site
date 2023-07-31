@@ -1,6 +1,9 @@
 ---
-title: People
-permalink: /people/
+layout: post
+title: Meet the team!
+description: test
+image: assets/images/pic11.jpg
+nav-menu: true
 ---
 
 {% assign people_sorted = site.people | sort: 'joined' %}
