@@ -6,7 +6,7 @@ image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
-{% assign people_sorted = site.people | sort: 'joined' %}
+{% assign people_sorted = site.people %}
 {% assign role_array = "pi|postdoc|gradstudent|researchstaff|visiting|alumni" | split: "|" %}
 
 {% for role in role_array %}
