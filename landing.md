@@ -2,7 +2,7 @@
 title: Topics
 layout: landing
 description: 'Research areas of interest in the lab'
-image: assets/images/primaryBG.jpg
+image: assets/images/primaryBG.jpeg
 nav-menu: true
 ---
 
