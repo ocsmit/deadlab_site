@@ -4,6 +4,7 @@ position: postdoc
 avatar: ianmc.jpg
 twitter: ecoterrestrian
 joined: 2023
+layout: page
 ---
 
 <img width="300" src="{{site.baseurl}}/assets/images/people/{{page.avatar}}" data-action="zoom">
@@ -23,4 +24,4 @@ My interests lie at the intersection of environmental policy, remote sensing, an
 <hr>
 
 ### About me
-Ian is currently a Postdoctoral Associate under Dr. Evan Gora at the Cary Institute of Ecosystem Studies, where he is researching lightning effects on tropical forest biodiversity using remote sensing. Previously, Ian completed his PhD in Geospatial Analytics at NC State University under Dr. Josh Gray, where he was a NASA Future Investigator researching near real-time monitoring of deforestation. Before NC State, he worked as a research analyst with the Smithsonian’s Forest Global Earth Observatory (ForestGEO), and earned degrees from the University of Oxford (MSc) and the University of California Berkeley (BSc). His environmental policy and field experience span the US, northern Europe, and central Africa, with a primary focus in forest ecology. Outside of research, Ian is an avid musician, botanist, and hiker. 
+Ian is currently a Postdoctoral Associate under Dr. Evan Gora at the Cary Institute of Ecosystem Studies, where he is researching lightning effects on tropical forest biodiversity using remote sensing. Previously, Ian completed his PhD in Geospatial Analytics at NC State University under Dr. Josh Gray, where he was a NASA Future Investigator researching near real-time monitoring of deforestation. Before NC State, he worked as a research analyst with the Smithsonian’s Forest Global Earth Observatory (ForestGEO), and earned degrees from the University of Oxford (MSc) and the University of California Berkeley (BSc). His environmental policy and field experience span the US, northern Europe, and central Africa, with a primary focus in forest ecology. Outside of research, Ian is an avid musician, botanist, and hiker.
