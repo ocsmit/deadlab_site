@@ -38,7 +38,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/lightningTreeDeath.png %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/lightningEx.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
