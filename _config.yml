@@ -35,9 +35,9 @@ collections:
   people:
     output: true
     permalink: /:collection/:title
-
-include: ['_people']
-
+  topics:
+    output: true
+    permalink: /:collection/:title
 
 
 # build settings
