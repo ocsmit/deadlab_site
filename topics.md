@@ -21,7 +21,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a class="image">
 			<img src="{% link assets/images/treeDeath.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -31,13 +31,13 @@ nav-menu: true
 				</header>
 				<p>Forests play dominant roles in global biodiversity and carbon cycling. Consequently, the local disturbances that regulate forest dynamics – particularly via tree death – have global implications. Although we know what can kill trees, the relative importance of factors that do kill trees is largely unknown. Much of the lab's current and forthcoming research investigates how lightning, pathogens, and drought interact to cause tree death, including how drivers of mortality vary with tree size.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="proj_treeDeath.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a class="image">
 			<img src="{% link assets/images/lightningEx.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -47,13 +47,13 @@ nav-menu: true
 				</header>
 				<p>Most of the lab's past work on this topic has focused on the direct (i.e., non-fire) effects of lightning in tropical forests. In a collaboration with ecologist Steve Yanoviak and atmospheric physicists Phillip Bitzer and Jeff Burchfield, we have been locating lightning strikes in near real-time throughout a lowland forest in Panama. This work revealed that lightning strikes in this forest typically cause cryptic group tree damage and death events, and initiate interactions with other agents of tree death. We are starting separate research projects investigating lightning in other regions and testing the physiological and electromagnetic processes by which lightning causes tree death.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="proj_lightningEco.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a class="image">
 			<img src="{% link assets/images/deadWood.jpeg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -63,13 +63,13 @@ nav-menu: true
 				</header>
 				<p>Tropical forests are disproportionately important to the global carbon cycle and the vast majority of aboveground carbon is stored in woody tissues.  This carbon is released as dead wood decomposes, yet the process of wood decomposition is poorly studied in tropical forests. We are investigating the distribution and decomposition of dead wood in tropical forests by investigating how decomposition rates change vertically and how these changes are associated with environmental factors (microclimate and nutrient availability) and microbial communities (bacteria, archaea, and fungi).</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="proj_deadWood.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a class="image">
 			<img src="{% link assets/images/funcBio.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -79,7 +79,7 @@ nav-menu: true
 				</header>
 				<p>The tendency of lightning to kill large trees suggests that it plays a major role in forest biomass dynamics and carbon cycling.  The largest 1% of trees in a forest contain approximately 50% of forest biomass and the distribution of these trees determines differences in forest carbon storage.  If lightning is a major cause of death for these large trees, then differences in lighting frequency should influence total forest biomass stocks and turnover rates.  We combined multiple datasets of pantropical lightning frequency to test this idea and found surprisingly strong evidence that lightning shapes forest structure and dynamics.  Specifically, higher lightning frequency was associated with fewer large trees per hectare, higher rates of woody biomass turnover, and less total aboveground biomass.  We are further expanding on this work to directly tie the effects of lightning to forest carbon cycling.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="proj_funcBio.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
